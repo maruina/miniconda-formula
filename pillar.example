@@ -1,0 +1,3 @@
+miniconda:
+  install_path: /opt
+  download_path: /root

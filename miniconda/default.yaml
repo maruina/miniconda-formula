@@ -1,0 +1,4 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+miniconda:
+  profile_dir: '/etc/profile.d'
